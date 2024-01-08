@@ -29,7 +29,7 @@
   "dependencies": {
     "body-parser": "^1.10.0",
     "express": "^4.10.6",
-    "follow-redirects": "0.0.3",
+    "follow-redirects": "1.15.4",
     "knex": "^0.7.3",
     "node-schedule": "^0.1.15",
     "nunjucks": "^1.1.0",
